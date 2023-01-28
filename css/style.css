@@ -358,7 +358,7 @@ html {
 .contact {
     padding-top: 50px;
     padding-bottom: 50px;
-    background: rgba(0, 255, 255, 0.2) url(../Images/contactus.jpg) no-repeat  center/cover;
+    background: rgba(0, 255, 255, 0.2) url(../images/contact.jpg) no-repeat  center/cover;
     background-blend-mode: overlay;
     border-bottom: 10px solid #ffc800;
 }
